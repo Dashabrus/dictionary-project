@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap");
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.App-logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.App-header {
+  margin: 15px 0;
+}
