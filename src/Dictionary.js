@@ -4,7 +4,7 @@ import Result from "./Result";
 
 export default function Dictionary() {
   const [keyword, setKeyword] = useState(null);
-  const [result, setResult] = useState({});
+  const [result, setResult] = useState(null);
 
   function handleKeywordChange(e) {
     setKeyword(e.target.value);

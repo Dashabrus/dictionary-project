@@ -12,6 +12,7 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <br />
         <footer className="text-center">Open-source code by Dasha Brus</footer>
       </div>
     </div>
