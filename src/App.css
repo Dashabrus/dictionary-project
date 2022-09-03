@@ -2,13 +2,30 @@
 
 body {
   font-family: "Montserrat", sans-serif;
+  background-color: #efefef;
 }
 
 .App-logo {
   display: block;
   margin: 0 auto;
+  width: 21.5%;
+  padding: 25px 0;
 }
 
 .App-header {
   margin: 15px 0;
+}
+
+footer {
+  margin-bottom: 15px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #285b84;
+  transition: all 150ms ease-in-out;
+}
+
+footer a:hover {
+  color: #0d1f2e;
 }
