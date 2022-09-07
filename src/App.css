@@ -29,3 +29,15 @@ footer a {
 footer a:hover {
   color: #0d1f2e;
 }
+
+.App {
+  max-width: 1175px;
+  margin: 0 auto;
+}
+
+@media (max-width: 576px) {
+  .App-logo {
+    width: 85%;
+    padding: 25px 0 5px;
+  }
+}
