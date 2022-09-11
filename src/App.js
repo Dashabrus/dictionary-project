@@ -1,6 +1,6 @@
 import logo from "./logo.png";
 import "./App.css";
-
+import React from "react";
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -17,7 +17,7 @@ export default function App() {
           <a
             href="https://glittering-dodol-e58a2e.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Open-source{" "}
           </a>
@@ -25,7 +25,7 @@ export default function App() {
           <a
             href="https://github.com/Dashabrus/dictionary-project"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Dasha Brus
           </a>
